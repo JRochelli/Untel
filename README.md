@@ -1,2 +1,2 @@
 # Untel
-Chat app with React Native (IOS/Androidù)
+Chat app with React Native ( IOS/Android )
